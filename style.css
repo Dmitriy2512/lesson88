@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://www.elmawke3.com/wp-content/uploads/2015/01/14351-dark-night-over-the-mountain-lake-1920x1080-fantasy-wallpaper.jpg);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+img{
+    width: 900px;
+    height: 480px;
+}
+p{
+    color: white;
+}
+li{
+    color: rgb(29, 11, 6);
+}
+.rrr{
+    color: black;
+}
+.text3{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(42, 165, 63);
+    overflow: scroll;
+}
